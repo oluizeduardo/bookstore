@@ -1,0 +1,50 @@
+
+body{
+    background-color: cornsilk;
+    line-height: 200%;
+}
+
+
+h1{
+    color: cornflowerblue;
+    font-size: 50px;
+}
+
+
+table, th, td {
+    border: 1px solid black;    
+}
+
+table{
+    display: inline-flex
+}
+
+input{
+    border-radius: 5px;
+    height: 20px;
+}
+
+
+form{
+    display: grid
+}
+
+img{
+    width: 200px;
+    height: 250px;
+}
+
+
+.right {
+    position: absolute;
+    right: 0px;
+    width: 500px;
+    padding: 10px;
+}
+
+
+.center {
+    margin: auto;
+    width: 20%;
+    padding: 10px;
+}
